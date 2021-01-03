@@ -59,6 +59,7 @@
    12. run npm start
 
 8. Load Product From Backend
+
    1. edit HomeScreen.js
    2. define products, loading and error
    3. create useEffect
@@ -69,7 +70,13 @@
    8. create Loading Component
    9. create Message Box Component
    10. use them in HomeScreen
+
 9. Install ESLint
+   1. install VSCode eslint extension
+   2. npm i -D eslint
+   3. run ./node_modules/.bin/eslint --init
+   4. create ./frontend/.env
+   5. add SKIP_PREFLIGHT_CHECK=true
 10. Add Redux To Home Screen
 11. Add Redux To Product Screen
 12. Handle Add To Cart Button
