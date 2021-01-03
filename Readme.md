@@ -44,6 +44,7 @@
    7. Create 3 columns for product image, info and action
 
 7. Create Node.Js Server
+
    1. run npm init in root folder
    2. update package.json set type: module
    3. Add .js to imports
@@ -56,7 +57,18 @@
    10. create route for /api/products
    11. return products
    12. run npm start
+
 8. Load Product From Backend
+   1. edit HomeScreen.js
+   2. define products, loading and error
+   3. create useEffect
+   4. define async fetchData and call it
+   5. install axios
+   6. get data from /api/products
+   7. show them in the list
+   8. create Loading Component
+   9. create Message Box Component
+   10. use them in HomeScreen
 9. Install ESLint
 10. Add Redux To Home Screen
 11. Add Redux To Product Screen
