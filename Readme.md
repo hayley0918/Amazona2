@@ -72,12 +72,26 @@
    10. use them in HomeScreen
 
 9. Install ESLint
+
    1. install VSCode eslint extension
    2. npm i -D eslint
    3. run ./node_modules/.bin/eslint --init
    4. create ./frontend/.env
    5. add SKIP_PREFLIGHT_CHECK=true
+
 10. Add Redux To Home Screen
+
+- npm install redux react-redux
+- create store.js
+- initState = { product: [] }
+- reducer = (state, action) => switch LOAD_PRODUCTS: {products: action.payload}
+- export default createStore(reducer, initState)
+- edit HomeScreen.js
+- shopName = useSelector(state => state.products)
+- const dispatch = useDispatch()
+- useEffect(() => dispatch({type: LOAD_PRODUCTS, payload: data}))
+- add store to index.js
+
 11. Add Redux To Product Screen
 12. Handle Add To Cart Button
 13. Implement Add To Cart
