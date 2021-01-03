@@ -15,14 +15,22 @@
    3. add link, image, name and price
 
 3. Create React App
+
    1. npx create-react-app frontend
    2. npm start
    3. Remove unused files
    4. copy index.html content to App.js
    5. copy style.css content to index.css
    6. replace class with className
+
 4. Share Code On Github
+
 5. Create Rating and Product Component
+   1. create components/Rating.js
+   2. create div.rating
+   3. style div.rating, span and last span
+   4. create Product component
+   5. use Rating component
 6. Build Product Screen
 7. Create Node.Js Server
 8. Load Product From Backend
