@@ -93,6 +93,12 @@
 - add store to index.js
 
 11. Add Redux To Product Screen
+
+- create product details constants, actions and reducers
+- add reducer to store.js
+- use action in ProductScreen.js
+- add /api/product/:id to backend api
+
 12. Handle Add To Cart Button
 13. Implement Add To Cart
 14. Build Cart Screen
