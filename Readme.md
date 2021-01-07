@@ -105,6 +105,12 @@
 - create CartScreen.js
 
 13. Implement Add To Cart
+
+- create addToCart constants, actions and reducers
+- add reducer to store.js
+- use action in CartScreen.js
+- render cartItems.length
+
 14. Build Cart Screen
 15. Implement Remove From Cart
 16. Create Sample Users In MongoDB
