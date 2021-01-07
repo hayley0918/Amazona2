@@ -120,6 +120,11 @@
 - implement remove from cart action
 
 15. Implement Remove From Cart
+
+- create removeFromCart constants, actions and reducers
+- add reducer to store.js
+- use action in CartScreen.js
+
 16. Create Sample Users In MongoDB
 17. Create Sample Products In MongoDB
 18. Create Signin Backend
