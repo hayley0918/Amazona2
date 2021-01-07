@@ -100,6 +100,10 @@
 - add /api/product/:id to backend api
 
 12. Handle Add To Cart Button
+
+- Handle Add to Cart in ProductScreen.js
+- create CartScreen.js
+
 13. Implement Add To Cart
 14. Build Cart Screen
 15. Implement Remove From Cart
