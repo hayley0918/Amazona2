@@ -112,6 +112,13 @@
 - render cartItems.length
 
 14. Build Cart Screen
+
+- create 2 columns for cart items and cart action
+- cartItems.length === 0 ? cart is empty
+- show item image, name, qty and price
+- proceed to checkout button
+- implement remove from cart action
+
 15. Implement Remove From Cart
 16. Create Sample Users In MongoDB
 17. Create Sample Products In MongoDB
