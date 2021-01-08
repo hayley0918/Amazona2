@@ -140,6 +140,12 @@
 - seed sample data
 
 17. Create Sample Products In MongoDB
+
+- create models/productModels.js
+- create productSchema and productModel
+- create productRoute
+- Seed sample data
+
 18. Create Signin Backend
 19. Design Signin Screen
 20. Implement Signin Action
