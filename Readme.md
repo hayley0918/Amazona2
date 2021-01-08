@@ -147,6 +147,15 @@
 - Seed sample data
 
 18. Create Signin Backend
+
+- create /signin api
+- check email and password
+- generate token
+- install json web token
+- install dotenv
+- return token and data
+- test it using postman
+
 19. Design Signin Screen
 20. Implement Signin Action
 21. Create Register Screen
