@@ -157,6 +157,12 @@
 - test it using postman
 
 19. Design Signin Screen
+
+- create SigninScreen
+- render email and password fields
+- create signin constants, actions and reducers
+- update Header based on user login
+
 20. Implement Signin Action
 21. Create Register Screen
 22. Create Shipping Screen
