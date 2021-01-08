@@ -126,6 +126,19 @@
 - use action in CartScreen.js
 
 16. Create Sample Users In MongoDB
+
+- npm i mongoose
+- connect to mongodb
+- create config.js
+- npm i dotenv
+- export MONNGODB_URL
+- create models/userModel.js
+- create userSchema and userModel
+- create models/productModel.js
+- create productShcema and productModel
+- create userRoute
+- seed sample data
+
 17. Create Sample Products In MongoDB
 18. Create Signin Backend
 19. Design Signin Screen
