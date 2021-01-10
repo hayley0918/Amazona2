@@ -164,6 +164,11 @@
 - update Header based on user login
 
 20. Implement Signin Action
+
+- create signin constants, actions, and reducers
+- add reducer to store.js
+- use action in SigninScreen.js
+
 21. Create Register Screen
 22. Create Shipping Screen
 23. Create Payment Screen
