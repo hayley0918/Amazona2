@@ -170,6 +170,15 @@
 - use action in SigninScreen.js
 
 21. Create Register Screen
+
+- create API for /api/users/register
+- insert new user to database
+- return user info and token
+- create RegisterScreen
+- add fields
+- style fields
+- add screen to App.js
+
 22. Create Shipping Screen
 23. Create Payment Screen
 24. Design Place Order Screen
