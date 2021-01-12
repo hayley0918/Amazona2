@@ -180,6 +180,11 @@
 - add screen to App.js
 
 22. Create Shipping Screen
+
+- create CheckoutSteps.js component
+- create shipping fields
+- implement shipping constant, actions, and reducers
+
 23. Create Payment Screen
 24. Design Place Order Screen
 25. Create Place Order API
