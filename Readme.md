@@ -191,6 +191,10 @@
 - implement shipping constantm actions and reducers
 
 24. Design Place Order Screen
+
+- design order summary fields
+- design order action
+
 25. Create Place Order API
 26. Implement Place Order Action
 27. Create Order Screen
