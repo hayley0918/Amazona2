@@ -186,6 +186,10 @@
 - implement shipping constant, actions, and reducers
 
 23. Create Payment Screen
+
+- create payment fields
+- implement shipping constantm actions and reducers
+
 24. Design Place Order Screen
 25. Create Place Order API
 26. Implement Place Order Action
