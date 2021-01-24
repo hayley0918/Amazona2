@@ -196,6 +196,12 @@
 - design order action
 
 25. Create Place Order API
+
+- createOrder api
+- create orderModel
+- create orderRouter
+- create post order route
+
 26. Implement Place Order Action
 27. Create Order Screen
 28. Add PayPal button
