@@ -203,6 +203,10 @@
 - create post order route
 
 26. Implement Place Order Action
+
+- handle place order button click
+- create place order constants, action and reducer
+
 27. Create Order Screen
 28. Add PayPal button
 29. Implement Order Payment
