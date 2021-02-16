@@ -218,6 +218,13 @@
 
 28. Add PayPal button
 
+- get client id from paypal
+- set it in .env file
+- create route form /api/paypal/clientId
+- create getPaypalClientID in api.js
+- add paypal checkout script in OrderScreen.js
+- show paypal button
+
 29. Implement Order Payment
 30. Display Order History
 31. Display User Profile
