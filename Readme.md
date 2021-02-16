@@ -208,7 +208,16 @@
 - create place order constants, action and reducer
 
 27. Create Order Screen
+
+- build order api for /api/orders/:id
+- create OrderScreen.js
+- dispatch order details action in useEffect
+- load data with useSelector
+- show data like place order screen
+- create order details constants, action and reducer
+
 28. Add PayPal button
+
 29. Implement Order Payment
 30. Display Order History
 31. Display User Profile
